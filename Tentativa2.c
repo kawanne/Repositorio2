@@ -7,6 +7,7 @@ int main(){
 
     int a=5, b=5;
     int sum = a+b;
+    int sub = sum-1;
 
     return 0;
 }
